@@ -1,0 +1,51 @@
+body {
+	background-image: url("project images/pic8.jpg ");
+        background-repeat:repeat;
+} 
+
+h1 {
+	color: #696969;
+	font-family: Arial;
+	font-size: 60px;
+	text-align: center;
+	margin: 0px;
+	background-color: #D8BFD8;
+	
+}
+
+
+p {
+	font-family: Arial;
+	font-size: 15px;
+	color: #696969;
+	
+
+
+
+}
+
+div h2 {
+	color: #FF69B4;
+}
+
+.index-h2 {
+	font-family: Arial;
+	
+	
+
+}
+
+.index-h2 p {
+	width: 250px;
+}
+
+div h3 {
+	color: #FF69B4;
+	font-family: Arial;
+	
+}
+
+h2 {
+	font-size: 30px
+}
+

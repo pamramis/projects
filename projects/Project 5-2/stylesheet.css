@@ -1,0 +1,432 @@
+#rectangle {
+  height: 350px;
+  width: 1420px;
+  background-color: #000000;
+}
+
+#background {
+	height: 1080px;
+	width: 1420px;
+}
+
+#neon {
+	padding-left: 1050px;
+	position: relative;
+	bottom: 250px;
+}
+
+.color{
+    color: #ff0000;
+}
+
+
+ #logo {
+ 	width: 100px;
+ 	height: 50px;
+ 	padding-left: 0;
+ 	margin: 0;
+ 	bottom: 320px;
+ }
+
+ #logo img[alt="Logo"]{
+ 	position: relative;
+ 	left:0px;
+ 	bottom: 0px;
+ }
+
+body {
+	padding: 0;
+	margin: 0;
+}
+#navbar{
+	width: 925px;
+	position: relative;
+	top:-780px;
+	margin: 0 auto;
+	
+}
+#navbar ul, ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#navbar ul li {
+	display: inline; 
+	background-color: #B8B3B2;
+	margin: 0;
+	
+}
+
+#navbar a {
+	text-decoration: none;
+	font-size: 1.8em;
+	padding: 5px 30px 5px 30px;
+	margin: 0;
+	background-color: #B8B3B2;
+
+}
+
+#navbar a:hover{
+	background-color: #B8B3B2;
+	font-size: 2em;
+	transition: all 0.5% ease;
+}
+
+.container {
+  position: absolute;
+  width: 50%;
+  bottom: 3%;
+}
+
+
+div h2 {
+	color: #F1350D;
+	font-family: Garamond;
+	font-size: 1.8em;
+	text-decoration: underline;
+	
+}
+
+div h3 {
+		color: #F1350D;
+	font-family: Garamond;
+	font-size: 2.5em;
+	text-decoration: underline;
+	text-shadow: 2px 2px #000000;
+	position: relative;
+	top: 10%;
+	background: #000000;
+	width: 750;
+
+
+}
+
+body {
+	background-repeat: repeat;
+	background-position: 100%;
+}
+
+#image01 {
+	  position: relative;
+	  width: 350px;
+	  height: 300px;
+	  top: 50%;
+	  padding-top: 40px;
+
+}
+
+#logo {
+	width: 300px;
+	height: 300px;
+
+}
+
+#newContent{
+	position: relative;
+	top: -750px;
+	margin: 0;
+	padding: 0;
+	height: 500px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#newContent p, h3, h2, ul, li{
+	font-size: 1em;
+	color: #ffffff;
+	font-family: Garamond, sans-serif;
+	position: relative;
+	top: 5%;
+}
+#margarita {
+	position: relative;
+	top: 650px;
+	padding-left: 350px;
+	
+}
+#salami {
+	position: relative;
+	top: -430px;
+	padding-left: 345px;
+	
+}
+
+#veggie {
+	position: relative;
+	top: -350px;
+	padding-left: 350px;
+}
+
+#eggs {
+	position: relative;
+	top: -250px;
+	padding-left: 350px;
+}
+
+#locations {
+	position: relative;
+	top: -150px;
+	padding-left: 350px;
+	width: 750;
+}
+
+.text {
+	color: #ffffff;
+}
+
+#ordernow {
+	position: relative;
+	top: 100px;
+	padding-left: 0px;
+	padding-bottom: 200px;
+}
+
+#prices {
+	color: #FF0000;
+	font-size: 2em;
+	text-decoration: overline;
+	font-weight: bold;
+	border-color: red dotted;
+}
+
+#testimonials {
+	position: relative;
+	top: 150;
+	padding-bottom: 300px;
+}
+
+#customers {
+	color: #ffffff;
+	font-size: 1.8em;
+    font-style: italic;
+}
+@media (max-width: 750px){
+	#rectangle {
+  height: 350px;
+  width: 750px;
+  background-color: #000000;
+}
+
+#background {
+	height: 1334px;
+	width: 750px;
+}
+
+#neon {
+	padding-left: 750px;
+	position: relative;
+	bottom: 300px;
+	
+}
+
+.color{
+    color: #ff0000;
+}
+
+
+ #logo {
+ 	width: 100px;
+ 	height: 50px;
+ 	padding-left: 0;
+ 	margin: 0;
+ 	bottom: 320px;
+	
+ }
+
+ #logo img[alt="Logo"]{
+ 	position: relative;
+ 	left:0px;
+ 	bottom: 0px;
+	 width: 150;
+	 height: 150;
+ }
+
+body {
+	padding: 0;
+	margin: 0;
+}
+#navbar{
+	width: 750px;
+	position: relative;
+	top:-1025px;
+	margin: 0 auto;
+	align-items: center
+	
+}
+#navbar ul, ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#navbar ul li {
+	display: inline; 
+	background-color: #B8B3B2;
+	margin: 0;
+	
+}
+
+#navbar a {
+	text-decoration: none;
+	font-size: 1.4em;
+	padding: 5px 30px 5px 30px;
+	margin: 0;
+	background-color: #B8B3B2;
+
+}
+
+#navbar a:hover{
+	background-color: #B8B3B2;
+	font-size: 1.2em;
+	transition: all 0.5% ease;
+}
+
+.container {
+  position: absolute;
+  width: 50%;
+  bottom: 3%;
+}
+
+
+div h2 {
+	color: #F1350D;
+	font-family: Garamond;
+	font-size: 1.8em;
+	text-decoration: underline;
+	text-align: center;
+}
+
+div h3 {
+		color: #F1350D;
+	font-family: Garamond;
+	font-size: 2.5em;
+	text-decoration: underline;
+	text-shadow: 2px 2px #000000;
+	position: relative;
+	top: 10%;
+	background: #000000;
+	text-align: center;
+
+
+}
+
+body {
+	background-repeat: repeat;
+	background-position: 100%;
+}
+
+#image01 {
+	  position: relative;
+	  width: 350px;
+	  height: 300px;
+	  top: 50%;
+	  padding-top: 40px;
+	 padding-left: 210px;
+
+}
+
+#logo {
+	width: 150px;
+	height: 150px;
+
+}
+
+#newContent{
+	position: relative;
+	top: -950px;
+	margin: 0;
+	padding: 0;
+	height: 500px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#newContent p, h3, h2, ul, li{
+	font-size: 1em;
+	color: #ffffff;
+	font-family: Garamond, sans-serif;
+	position: relative;
+	top: 5%;
+	text-align: center;
+}
+#margarita {
+	position: relative;
+	top: 750px;
+	padding-left: 400px;
+	resize: 750p;
+	
+}
+#margarita ul{
+		list-style-type: none;
+	}
+#salami {
+	position: relative;
+	top: -600px;
+	padding-left:0;
+}
+	#salami ul {
+		list-style-type: none;
+	}	
+
+#veggie {
+	position: relative;
+	top: -600px;
+	padding-left: 0;
+}
+#veggie ul {
+		list-style-type: none;
+	}
+#eggs {
+	position: relative;
+	top: -600px;
+	padding-left: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+#eggs ul{
+		list-style-type: none;
+	}
+#locations {
+	position: relative;
+	top: -600px;
+	padding-left: 0;
+}
+
+.text {
+	color: #ffffff;
+	text-align: center;
+}
+
+#ordernow {
+	position: relative;
+	top: 100px;
+	padding-left: 0px;
+	padding-bottom: 200px;
+}
+
+#prices {
+	color: #FF0000;
+	font-size: 1.8em;
+	text-decoration: overline;
+	font-weight: bold;
+	border-color: red dotted;
+	padding-left: 0;
+	text-align: center;
+}
+
+#testimonials {
+	position: relative;
+	top: 150;
+	padding-bottom: 300px;
+	padding-left: 0;
+}
+
+#customers {
+	color: #ffffff;
+	font-size: 1.5em;
+    font-style: italic;
+	padding-left: 0;
+	text-align: center;
+}
+}
